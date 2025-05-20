@@ -36,12 +36,12 @@ Este análisis tiene como finalidad explorar diferentes aspectos relacionados co
 
 ---
 
-## 🛠️ Tecnologías Sugeridas
+## 🛠️ Tecnologías
 
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebooks
 - SQL (para consulta de bases de datos si aplica)
-- Herramientas de visualización interactivas (Plotly, Dash, Power BI, etc.)
+- Herramientas de visualización interactivas
 
 ---
 
