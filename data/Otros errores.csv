@@ -1,0 +1,12 @@
+ID;Toma;RFID;Descripci贸n;C贸digo Error;Tiempo KO (min);Informaci贸n;Soluci贸n;Autogesti贸n;Revisado;Fecha
+81636915;1                 2;4210747D                 9E4D5697;faulted - Charger Status: Faulted;#縉OMBRE?;;;;;;13-03-2025, 13:01
+81636909;1                 2;4210747D                 9E4D5697;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;13-03-2025, 13:01
+77310439;1                 2;D45E7EAF                 9D45BEFB;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;04-02-2025, 09:56
+77305473;1                 2;D45E7EAF                 9D45BEFB;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;04-02-2025, 09:02
+77299174;1                 2;D45E7EAF                 9D45BEFB;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;04-02-2025, 07:53
+77149556;1                 2;7B0734A0                 17E7BA2C;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;03-02-2025, 05:52
+76794097;1                 2;7B0734A0                 17E7BA2C;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;31-01-2025, 15:57
+74737187;1                 2;D7A39F47                 8063448D;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;15-01-2025, 12:17
+69683035;1                 2;81407EED                 8063448D;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;05-12-2024, 06:52
+57900574;1                 2;52FC1964                 4210747D;17 - ac failure - Charger Status: Faulted;17 - ac failure - UnderVoltage;;;;;;05-08-2024, 14:20
+57900324;1                 2;52FC1964                 4210747D;faulted - Charger Status: Faulted;#縉OMBRE?;;;;;;05-08-2024, 14:16
